@@ -1,7 +1,7 @@
 Pikeman
 =======
 
-Bulk PDF processing with Tabula.  Use bounding box output from [Tabula]() to export images from multiple PDFs.  Useful for PDF liberation on a large scale.
+Bulk PDF processing with Tabula.  Use bounding box output from [Tabula](https://github.com/jazzido/tabula) to export images from multiple PDFs.  Useful for PDF liberation on a large scale.
 
 ####Usage
 
